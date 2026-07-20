@@ -1,16 +1,14 @@
-## Hi there 👋
+🚀 Featured projects
+mcp-apex-server — an MCP server (FastMCP + Docker) that exposes real tools to AI agents like Claude as typed, tested functions.
+hydra-brain — an autonomous LLM research agent that pre-registers hypotheses, tests them through one audited engine, and applies FDR-corrected statistics. On its first run it caught a lookahead bug that faked a 5-sigma result.
+structural-quant-research — 11 pre-registered, forced-flow trading hypotheses, FDR-tested with holdouts. 9 killed, 1 borderline. Rejection is the product.
+🛠 Tech
+Python · Flask · REST APIs · FastMCP / MCP · Docker · pandas · NumPy · SQL / SQLite · Git · Linux / Bash · JavaScript · Statistical validation · Automated testing
 
-<!--
-**junaidshahid-dev/junaidshahid-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 How I work
+Spec before code · tests and validation first · fault-tolerant design (crash recovery, retries, input guards) · honest about results, always.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect
+💼 LinkedIn: linkedin.com/in/junaid-shahid-dev
+🌐 Portfolio: https://junaidshahid-dev.github.io
+✉️ junaidshahid725@gmail.com
